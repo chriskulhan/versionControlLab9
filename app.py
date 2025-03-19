@@ -11,6 +11,11 @@ recipes = {
         "name": "Midnight Ramen",
         "ingredients": ["instant ramen", "egg", "green onions", "hot sauce"],
         "instructions": "1. Boil water\n2. Cook noodles\n3. Add toppings"
+    },
+    "quick-pbj": {
+    "name": "Quick PB&J",
+    "ingredients": ["bread", "peanut butter", "jelly"],
+    "instructions": "1. Spread peanut butter & jelly on slices\n2. Put them together"
     }
 }
 
